@@ -1,23 +1,23 @@
 ```
- ██╗  ██╗ █████╗ ███████╗██╗  ██╗███████╗██╗ ██████╗ ██╗  ██╗████████╗
- ██║ ██╔╝██╔══██╗██╔════╝██║  ██║██╔════╝██║██╔════╝ ██║  ██║╚══██╔══╝
- █████╔╝ ███████║███████╗███████║███████╗██║██║  ███╗███████║   ██║
- ██╔═██╗ ██╔══██║╚════██║██╔══██║╚════██║██║██║   ██║██╔══██║   ██║
- ██║  ██╗██║  ██║███████║██║  ██║███████║██║╚██████╔╝██║  ██║   ██║
- ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝
-       Builder of terminal apps, learning platforms & dev tools
+██████╗██╗   ██╗██████╗ ███████╗██████╗ ██╗   ██╗ █████╗ ██╗   ██╗██╗     ████████╗██╗  ██╗███████╗
+██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██║   ██║██╔══██╗██║   ██║██║     ╚══██╔══╝██║ ██╔╝██╔════╝
+██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝██║   ██║███████║██║   ██║██║        ██║   █████╔╝ █████╗  
+██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗╚██╗ ██╔╝██╔══██║██║   ██║██║        ██║   ██╔═██╗ ██╔══╝  
+╚██████╗   ██║   ██████╔╝███████╗██║  ██║ ╚████╔╝ ██║  ██║╚██████╔╝███████╗   ██║   ██║  ██╗███████╗
+ ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝ ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝
+                            OWNER OF CYBERVAULTKE
 ```
 
-<h1 align="center">Hi, I'm Kashsight 👋</h1>
+<h1 align="center">Hi, I'm the Owner of CyberVaultKE 👋</h1>
 
 <p align="center">
-  <em>Solo developer building offline-first apps, AI-assisted research tools, and Termux-friendly developer experiences.</em>
+  <em>Owner of CyberVaultKE building offline-first apps, AI-assisted research tools, and Termux-friendly developer experiences.</em>
 </p>
 
 <p align="center">
-  <a href="https://github.com/kashsight"><img src="https://img.shields.io/badge/GitHub-kashsight-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="mailto:kashsightplatform@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://kash-sight.web.app"><img src="https://img.shields.io/badge/Site-kash--sight.web.app-4285F4?style=for-the-badge&logo=firebase&logoColor=white" alt="Site" /></a>
+  <a href="https://github.com/cybervaultke"><img src="https://img.shields.io/badge/GitHub-cybervaultke-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="mailto:cybervaultkeplatform@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://cybervaultke.web.app"><img src="https://img.shields.io/badge/Site-kash--sight.web.app-4285F4?style=for-the-badge&logo=firebase&logoColor=white" alt="Site" /></a>
 </p>
 
 ---
@@ -28,12 +28,12 @@ I ship small, focused tools that solve real problems — most of them run from a
 
 | Project | What it is | Stack |
 |:---|:---|:---|
-| 🐚 **[ksui](https://github.com/kashsight/ksui)** | KAI-inspired Termux shell UI + zsh framework — motd banner, voice greetings, `tgpt` commands, fzf keybinds, themed prompts | bash, zsh |
-| 📚 **[kslearn](https://github.com/kashsight/kslearn)** | Offline-first terminal learning app — quizzes, flashcards, hierarchical courses, AI tutor, **KSL-Verse** RPG learning game | Python, rich, click |
-| 👁 **[kseye](https://github.com/kashsight/kseye)** | AI-human collaborative research assistant — multi-agent search, citations, fact-checking, reports across 10+ AI providers | Python, AI APIs |
-| ⚕  **[ktplatform](https://github.com/kashsight/ktplatform)** | Kenya-focused health information & triage platform — symptom guides, first-aid, hospital directory | Firebase, Python CLI |
-| ✉  **[email-bot](https://github.com/kashsight/email-bot)** | Email marketing platform — SMTP campaigns, AI templates, SPF/DKIM checks, analytics, GDPR-compliant | Python, Telegram bot |
-| 🔥 **[firebase-deploy](https://github.com/kashsight/firebase-deploy) (`fad`)** | Project-agnostic Firebase deploy helper — multi-project hosting, rules, functions, preview channels, dry-run, CI-friendly | bash, firebase-tools |
+| 🐚 **[cvui](https://github.com/cybervaultke/cvui)** | KAI-inspired Termux shell UI + zsh framework — motd banner, voice greetings, `tgpt` commands, fzf keybinds, themed prompts | bash, zsh |
+| 📚 **[cvlearn](https://github.com/cybervaultke/cvlearn)** | Offline-first terminal learning app — quizzes, flashcards, hierarchical courses, AI tutor, **KSL-Verse** RPG learning game | Python, rich, click |
+| 👁 **[cveye](https://github.com/cybervaultke/cveye)** | AI-human collaborative research assistant — multi-agent search, citations, fact-checking, reports across 10+ AI providers | Python, AI APIs |
+| ⚕  **[ktplatform](https://github.com/cybervaultke/ktplatform)** | Kenya-focused health information & triage platform — symptom guides, first-aid, hospital directory | Firebase, Python CLI |
+| ✉  **[email-bot](https://github.com/cybervaultke/email-bot)** | Email marketing platform — SMTP campaigns, AI templates, SPF/DKIM checks, analytics, GDPR-compliant | Python, Telegram bot |
+| 🔥 **[firebase-deploy](https://github.com/cybervaultke/firebase-deploy) (`fad`)** | Project-agnostic Firebase deploy helper — multi-project hosting, rules, functions, preview channels, dry-run, CI-friendly | bash, firebase-tools |
 
 ---
 
@@ -57,16 +57,16 @@ I ship small, focused tools that solve real problems — most of them run from a
 ## 📊 GitHub at a glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kashsight&show_icons=true&hide_border=true&theme=tokyonight" alt="kashsight stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kashsight&layout=compact&hide_border=true&theme=tokyonight" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cybervaultke&show_icons=true&hide_border=true&theme=tokyonight" alt="cybervaultke stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybervaultke&layout=compact&hide_border=true&theme=tokyonight" alt="top langs" />
 </p>
 
 ---
 
 ## 🤝 Get in touch
 
-- 🌐 **Website:** [kash-sight.web.app](https://kash-sight.web.app)
-- 📧 **Email:** [kashsightplatform@gmail.com](mailto:kashsightplatform@gmail.com)
-- 💼 **GitHub:** [@kashsight](https://github.com/kashsight)
+- 🌐 **Website:** [cybervaultke.web.app](https://cybervaultke.web.app)
+- 📧 **Email:** [cybervaultkeplatform@gmail.com](mailto:cybervaultkeplatform@gmail.com)
+- 💼 **GitHub:** [@cybervaultke](https://github.com/cybervaultke)
 
 > Open to collaboration on educational tooling, research-AI hybrids, and anything that makes terminals more humane.
